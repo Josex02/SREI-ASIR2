@@ -5,3 +5,9 @@ Repositorio de SREI
 | ------------- | ------------- |
 | [elpadredeantonio]()  | Content Cell  |
 |  [lamadredefabio]()  | Content Cell  |
+
+
+## EL PROYECTO DE MI VIDA
+| 1 TRIMESTRE  |  
+| ------------- | ------------- |
+| [Pracicafinal]()  | Content Cell  |
