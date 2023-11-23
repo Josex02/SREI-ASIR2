@@ -9,5 +9,5 @@ Repositorio de SREI
 
 ## EL PROYECTO DE MI VIDA
 | 1 TRIMESTRE  |  
-| ------------- | ------------- |
-| [Pracicafinal]()  | Content Cell  |
+| ------------- | 
+| [Pracicafinal](Proyecto_1TRIM/Documetacion.md)  | 
