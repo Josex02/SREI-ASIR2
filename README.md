@@ -10,4 +10,4 @@ Repositorio de SREI
 ## EL PROYECTO DE MI VIDA
 | 1 TRIMESTRE  |  
 | ------------- | 
-| [Pracicafinal](Proyecto_1TRIM/Documetacion.md)  | 
+| [PRACTICA-FINAL](Proyecto_1TRIM/Documetacion.md)  | 
