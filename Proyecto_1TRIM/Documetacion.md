@@ -92,6 +92,11 @@ Para instalar y configurar wordpress, tendremos que crear antes que nada una bas
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/6a74b25d-b7e9-4a3c-a8ec-c7b2a8c9f00a)
 
+Cuando hayamos iniciado sesion, tendremos que crear una base de datos, para crearlo utilizaremos el comando "CREATE DATABASE centrointranet DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;".
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/ce47b179-308f-418f-ac6c-47a6dca225ea)
+
+
 
 
 
