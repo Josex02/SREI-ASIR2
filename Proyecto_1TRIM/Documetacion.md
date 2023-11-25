@@ -96,6 +96,11 @@ Cuando hayamos iniciado sesion, tendremos que crear una base de datos, para crea
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/ce47b179-308f-418f-ac6c-47a6dca225ea)
 
+Lo que siguiente que tenemos que hacer es crear un usuario en nuestra base de datos. Para hacerlo usaremos el comando "CREATE USER 'jose '@'%' IDENTIFIED WITH mysql_native_password BY 'Admin1234.';"
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/df90cde5-1dfe-48c6-a34a-7418f148965b)
+
+
 
 
 
