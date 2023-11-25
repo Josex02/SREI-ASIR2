@@ -74,6 +74,9 @@ Para instalar MySQL usamos el siguientes comando: sudo apt install mysql-server.
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/aa2b89af-250f-4b30-9bb0-9dc946a2212d)
 
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/052cad67-025c-4c51-a37a-30311fec0f3f)
+
+
 
 
 
