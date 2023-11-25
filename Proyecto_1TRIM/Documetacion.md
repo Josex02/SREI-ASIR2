@@ -82,6 +82,11 @@ Ahora, tendremos que instalar PHP y para instalar las siguientes librerias neces
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/819dbeaf-cb4a-4152-a22c-2afcfb4e3a2f)
 
+Una vez instalado, para comprobar que así ha sucedido y la versión que se ha instalado usamos el comando php -v.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/54151f81-47a5-41a7-a9dc-28da75af3314)
+
+
 
 
 
