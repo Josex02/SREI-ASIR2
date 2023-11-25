@@ -4,4 +4,5 @@
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/108479b2-300c-4b93-853e-d615f2194496)
 
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/e6bcd3d5-ebc0-4077-b8b9-5b1d70e9aae1)
 
