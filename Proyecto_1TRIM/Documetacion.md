@@ -61,6 +61,12 @@ Para terminar, vamos a configurar las IPs de los  dominios en el archivo hosts m
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/56b690e5-ec24-40a2-8a5d-0e62149604e3)
 
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/07e79d92-29c7-4368-b3f7-7ab46a5174c3)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/6ec71a6c-ebf0-4a10-9347-5ef1b62f8cdf)
+
+
+
 
 
 
