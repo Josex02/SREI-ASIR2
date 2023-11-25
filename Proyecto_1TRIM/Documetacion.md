@@ -72,6 +72,9 @@ En mi caso usare el 127.0.0.1 para centro.intranet y 127.0.1.1 para departamento
 
 Para instalar MySQL usamos el siguientes comando: sudo apt install mysql-server.
 
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/aa2b89af-250f-4b30-9bb0-9dc946a2212d)
+
+
 
 
 
