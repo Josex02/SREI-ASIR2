@@ -106,6 +106,11 @@ Cuando le  demos a Enter nos pedirá que le pongamos ";".
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/4adb6088-0658-456d-97b1-9c1af8b0d760)
 
+Ahora, lo que tendremos que hacer, será recargar mysql para que recargue los cambios que hemos hecho con el comando "FLUSH PRIVILEGES;"  y cuando ya lo hayamos recargado, lo cerraremos poniendo "EXIT".
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/caf4be8c-5f7d-4036-ac30-e410b3fc2bee)
+
+
 
 
 
