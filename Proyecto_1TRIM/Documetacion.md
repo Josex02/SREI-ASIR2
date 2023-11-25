@@ -26,3 +26,11 @@ Haremos este mismo pasao para cada una de las carpetas que hemos creado.
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/eb61fe5b-d5e4-44dd-aba4-b2619c3acce6)
 
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/22e7b037-ec50-4a36-8a95-d36a6a8f580c)
+
+Tendremos que salir de la carpeta de "Centros" mediante el comando "cd .." y volver a acceder con la carpeta de "Departamenntos" y crear la página de la misma manera que la anterior.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/b7ed568d-dfc5-4a56-b980-5d6a3615366f)
+
+
+
