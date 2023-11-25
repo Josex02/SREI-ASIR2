@@ -86,6 +86,14 @@ Una vez instalado, para comprobar que así ha sucedido y la versión que se ha i
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/54151f81-47a5-41a7-a9dc-28da75af3314)
 
+### Instala y configura wordpress.
+
+Para instalar y configurar wordpress, tendremos que crear antes que nada una base de datos y para hacer esto, tendremos que usar el comando "mysql -u root -p".
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/6a74b25d-b7e9-4a3c-a8ec-c7b2a8c9f00a)
+
+
+
 
 
 
