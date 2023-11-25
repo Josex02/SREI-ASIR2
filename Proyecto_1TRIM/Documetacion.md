@@ -30,7 +30,7 @@ Haremos este mismo pasao para cada una de las carpetas que hemos creado.
 
 Tendremos que salir de la carpeta de "Centros" mediante el comando "cd .." y volver a acceder con la carpeta de "Departamenntos" y crear la página de la misma manera que la anterior.
 
-![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/b7ed568d-dfc5-4a56-b980-5d6a3615366f)
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/1bfbf2e1-68d3-4f8f-93c7-f61bb1721554)
 
 Después de crear las respectivas paginas, lo que vamos a hacer ahora va a ser crear los archivos de configuracion de dichos sitios.
 
