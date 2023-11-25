@@ -78,6 +78,11 @@ Para comprobar que funciona probamos a iniciar sesión con el comando sudo mysql
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/052cad67-025c-4c51-a37a-30311fec0f3f)
 
+Ahora, tendremos que instalar PHP y para instalar las siguientes librerias necesarias, usaremos el comando "sudo apt install php libapache2-mod-php php-mysql".
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/819dbeaf-cb4a-4152-a22c-2afcfb4e3a2f)
+
+
 
 
 
