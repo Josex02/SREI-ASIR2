@@ -50,7 +50,12 @@ Ahora le daremmos permisos a las carpetas para que apache pueda acceder a ellas 
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/8a0903c9-e9e1-4eb1-9558-0f0f450eebb0)
 
+Una vez tiene permisos vamos a habilitar los VirtualHosts con a2ensite y el nombre del dominio y reiniciando apache para que los cambios se apliquen.
+
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/58c17641-83c0-479f-997a-b35b2fd9f35d)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/476b5ba9-95a0-4294-bd55-466324960f85)
+
 
 
 
