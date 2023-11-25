@@ -4,7 +4,7 @@
 
 Lo primero que tendremos que hacer antes de instalar nuestro sistema, tendremos que buscar si tenemos actualizaciones para comprobar que los archivos del sistema se encuentran actualizados. Para buscar actulizaciones, utilizaremos dos comandos, usaremos "apt update" y "apt upgrade", cuando ajecutemos el comando nos pedirá confirmación, podremos la contraseña quee le tengamos asiganada y ya estaría.
 
-![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/ce571fd1-c557-40d8-802d-34d8c0442b1e)
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/d022e8cb-565b-494c-8a9c-026efaaa3043)
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/108479b2-300c-4b93-853e-d615f2194496)
 
