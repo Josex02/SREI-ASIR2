@@ -57,6 +57,11 @@ Una vez tiene permisos vamos a habilitar los VirtualHosts con a2ensite y el nomb
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/476b5ba9-95a0-4294-bd55-466324960f85)
 
 
+Para terminar, vamos a configurar las IPs de los  dominios en el archivo hosts mediante el comando "nano hosts" y cambiaremos nuestras IPs por lo que hemos creado anteriormente
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/56b690e5-ec24-40a2-8a5d-0e62149604e3)
+
+
 
 
 
