@@ -42,6 +42,10 @@ Luego cunado ejecutemos el comando "nano centro.intrantet.conf" tendremos que cr
 
 Cuando acabemos "nano centro.intranet.conf", tendremos que hacer lo mismo con "nano departamentos.centro.intranet".
 
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/a3073ed3-aaa3-4813-a03e-34c6739ea976)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/c58938ca-9862-4ba6-a6a2-40894df2d02d)
+
 
 
 
