@@ -46,6 +46,11 @@ Cuando acabemos "nano centro.intranet.conf", tendremos que hacer lo mismo con "n
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/c58938ca-9862-4ba6-a6a2-40894df2d02d)
 
+Ahora le daremmos permisos a las carpetas para que apache pueda acceder a ellas y pueda abrir el archivo index.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/8a0903c9-e9e1-4eb1-9558-0f0f450eebb0)
+
+
 
 
 
