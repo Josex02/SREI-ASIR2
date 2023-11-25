@@ -13,4 +13,6 @@ Pero como en mi caso ya lo tenía instalado, me aparece que ya tengo la última 
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/e6bcd3d5-ebc0-4077-b8b9-5b1d70e9aae1)
 
+Una vez instalado apache, vamos a crear sus respectivas carpetas y paginas principales. para hacerlo tendremos que acceder a "/var/www" mediante el comando "cd /var y cd /www" y cuando ya estemos dentro, crearemos las carpetas con el comando "mkdir nombre_carpeta".
+
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/a1af02a0-b15c-4985-a0a9-27029e9d676d)
