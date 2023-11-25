@@ -1,6 +1,6 @@
 # PRACTICA FINAL 1 TRIMESTRE REDES
 
-## Instalación del servidor web apache. Usaremos dos dominios mediante el archivo hosts: centro.intranet y departamentros.centro.intranet. El primero servirá el contenido mediante wordpress y el segundo una aplicación en python.
+### Instalación del servidor web apache. Usaremos dos dominios mediante el archivo hosts: centro.intranet y departamentros.centro.intranet. El primero servirá el contenido mediante wordpress y el segundo una aplicación en python.
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/ce571fd1-c557-40d8-802d-34d8c0442b1e)
 
