@@ -100,6 +100,13 @@ Lo que siguiente que tenemos que hacer es crear un usuario en nuestra base de da
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/df90cde5-1dfe-48c6-a34a-7418f148965b)
 
+Luego, le otorgaremos acceso completo a la base de datos con el comando "GRANT ALL ON centrointranet .* TO 'jose '@'%'".
+
+Cuando le  demos a Enter nos pedirá que le pongamos ";".
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/4adb6088-0658-456d-97b1-9c1af8b0d760)
+
+
 
 
 
