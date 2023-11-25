@@ -110,8 +110,7 @@ Ahora, lo que tendremos que hacer, será recargar mysql para que recargue los ca
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/caf4be8c-5f7d-4036-ac30-e410b3fc2bee)
 
-Después de crear la base de datos, vamos a instalar las extensiones adicionales de PHP con el comando "![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/216a2416-e839-4e48-a3f8-8e6543f86f4a)".
-
+Después de crear la base de datos, vamos a instalar las extensiones adicionales de PHP con el comando "apt install php-curl php-gd php-mbstring php-xml php-xmlrpc php-soap php-intl php-zip".
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/5dc87808-73df-492c-b422-42ad297af91a)
 
