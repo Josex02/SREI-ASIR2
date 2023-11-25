@@ -68,6 +68,11 @@ En mi caso usare el 127.0.0.1 para centro.intranet y 127.0.1.1 para departamento
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/6ec71a6c-ebf0-4a10-9347-5ef1b62f8cdf)
 
 
+###Activar los módulos necesario para ejecutar php y acceder a mysql.
+
+Para instalar MySQL usamos el siguientes comando: sudo apt install mysql-server.
+
+
 
 
 
