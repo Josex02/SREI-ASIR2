@@ -32,5 +32,16 @@ Tendremos que salir de la carpeta de "Centros" mediante el comando "cd .." y vol
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/b7ed568d-dfc5-4a56-b980-5d6a3615366f)
 
+Después de crear las respectivas paginas, lo que vamos a hacer ahora va a ser crear los archivos de configuracion de dichos sitios.
+
+para comenzar tendremos que acceder a las siguientes rutas.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/2fa6e85b-ca9e-4435-8cd6-2e0849667a28)
+
+Luego cunado ejecutemos el comando "nano centro.intrantet.conf" tendremos que crear el propio archivo d configuración
+
+Cuando acabemos "nano centro.intranet.conf", tendremos que hacer lo mismo con "nano departamentos.centro.intranet".
+
+
 
 
