@@ -30,7 +30,7 @@ Haremos este mismo pasao para cada una de las carpetas que hemos creado.
 
 Tendremos que salir de la carpeta de "Centros" mediante el comando "cd .." y volver a acceder con la carpeta de "Departamenntos" y crear la página de la misma manera que la anterior.
 
-![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/1bfbf2e1-68d3-4f8f-93c7-f61bb1721554)
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/6dd9e7c7-cfe6-46c7-806e-6322e835b152)
 
 Después de crear las respectivas paginas, lo que vamos a hacer ahora va a ser crear los archivos de configuracion de dichos sitios.
 
@@ -44,7 +44,7 @@ Cuando acabemos "nano centro.intranet.conf", tendremos que hacer lo mismo con "n
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/a3073ed3-aaa3-4813-a03e-34c6739ea976)
 
-![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/c58938ca-9862-4ba6-a6a2-40894df2d02d)
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/1bfbf2e1-68d3-4f8f-93c7-f61bb1721554)
 
 Ahora le daremmos permisos a las carpetas para que apache pueda acceder a ellas y pueda abrir el archivo index.
 
