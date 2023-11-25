@@ -50,6 +50,9 @@ Ahora le daremmos permisos a las carpetas para que apache pueda acceder a ellas 
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/8a0903c9-e9e1-4eb1-9558-0f0f450eebb0)
 
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/58c17641-83c0-479f-997a-b35b2fd9f35d)
+
+
 
 
 
