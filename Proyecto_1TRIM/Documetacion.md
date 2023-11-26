@@ -126,6 +126,17 @@ Por último, habilitaremos los cambios.
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/febfda47-90fc-4581-ad4a-af235a5ca30d)
 
+El siguente paso que vamos hacer, va a ser, instalar Wordpress. Para instalarlo, empezaremos creando un archivo de wordpress.conf, con el comando "nano /etc/apache2/sites-available/wordpress.conf".
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/a63deca6-a2d6-46a5-a1f2-f949681b0ac7)
+
+Y escribiremos el siguiente texto.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/2c6a7846-d180-4171-a07b-e4add7f1e311)
+
+
+
+
 
 
 
