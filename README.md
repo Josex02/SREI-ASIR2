@@ -12,4 +12,4 @@ Repositorio de SREI
 | ------------- | 
 | [PRACTICA-FINAL](Proyecto_1TRIM/Documetacion.md)  | 
 | ------------- | 
-| [PRACTICA-FINAL2](Proyecto_1TRIM/Documetacion.md)  | 
+| [PRACTICA-FINAL2](PROYECCTO2)  | 
