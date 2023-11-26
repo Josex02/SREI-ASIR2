@@ -146,6 +146,16 @@ Ahora voy a copiar el archivo de configuración de muestra que se crea al instal
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/98bf0bbe-5c28-4534-ac89-89c453d5eeba)
 
+Lo siguiente que voy a hacer es crear de actualización para que wordpress no tenga problemas de permisos al actualizarse por su cuenta. También moveré el contenido del directorio a nuestro directorio root de documentos.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/df580d53-1f8d-481e-ac23-8e47c7393685)
+
+Ahora voy a configurar dichos archivos para que sean propiedad del usuario y del grupo www-data y voy a cambiar los permisos de los directorios y archivos de WordPress para que pueda trabajar con ellos sin ningún problema.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/f89c5e70-3517-4171-b57e-d4b28d5daf53)
+
+
+
 
 
 
