@@ -122,6 +122,11 @@ Ahora, habilitaremos el mósulo de reescritura con el comando "a2enmod rewrite" 
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/fde3934e-55c6-4e19-afdf-12a9dc2d22e5)
 
+Por último, habilitaremos los cambios.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/febfda47-90fc-4581-ad4a-af235a5ca30d)
+
+
 
 
 
