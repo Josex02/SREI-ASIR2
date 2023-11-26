@@ -140,6 +140,14 @@ Para descargar wordpress vamos a dirigirnos a un directorio que permita escritur
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/33c9e47e-0e5a-4e2d-bccc-fdc0ef7a0a62)
 
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/d63d8e20-cc63-4332-a302-69b302d847a4)
+
+Ahora voy a copiar el archivo de configuración de muestra que se crea al instalar Wordpress a un fichero con el nombre que lee Wordpress por defecto.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/98bf0bbe-5c28-4534-ac89-89c453d5eeba)
+
+
+
 
 
 
