@@ -134,7 +134,12 @@ Y escribiremos el siguiente texto.
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/2c6a7846-d180-4171-a07b-e4add7f1e311)
 
+Para descargar wordpress vamos a dirigirnos a un directorio que permita escritura, en mi caso usaré /tmp y ahí descargaré wordpress como un archivo comprimido, lo extraeré y crearé un archivo .htaccess ficticio.
+
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/58738461-3366-4f74-8971-d15fd1a2e69e)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/33c9e47e-0e5a-4e2d-bccc-fdc0ef7a0a62)
+
 
 
 
