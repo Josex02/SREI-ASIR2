@@ -118,6 +118,13 @@ Una vez instalados dichos modulos vamos a cambiar la configuración de apache pa
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/4790f749-d96c-417d-9c53-5438957759ca)
 
+Ahora, habilitaremos el mósulo de reescritura con el comando "a2enmod rewrite" y cunado lo hagamos tendremos que reiniciar el servidor para que se apliquen los cambios
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/fde3934e-55c6-4e19-afdf-12a9dc2d22e5)
+
+
+
+
 
 
 
