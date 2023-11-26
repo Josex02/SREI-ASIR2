@@ -114,6 +114,8 @@ Después de crear la base de datos, vamos a instalar las extensiones adicionales
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/5dc87808-73df-492c-b422-42ad297af91a)
 
+Una vez instalados dichos modulos vamos a cambiar la configuración de apache para permitir reemplazos y reescrituras .htacces. Para ello, abriremos el archivo de configuración de apache y configuramos la directiva AllowOverride para permitir que apache lea los ficheros de tipo .htaccess.
+
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/4790f749-d96c-417d-9c53-5438957759ca)
 
 
