@@ -134,6 +134,9 @@ Y escribiremos el siguiente texto.
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/2c6a7846-d180-4171-a07b-e4add7f1e311)
 
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/58738461-3366-4f74-8971-d15fd1a2e69e)
+
+
 
 
 
