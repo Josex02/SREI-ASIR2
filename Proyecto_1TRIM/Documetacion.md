@@ -154,6 +154,16 @@ Ahora voy a configurar dichos archivos para que sean propiedad del usuario y del
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/f89c5e70-3517-4171-b57e-d4b28d5daf53)
 
+Una vez configurados, el siguiente paso será configurar el archivo de configuración de WordPress. Lo primero que tendremos que hacer será ajustar algunas claves secretras para proporcionar seguridad a nuestra instalación. Para ello, usaremos un generador seguro que proporciona WordPress y los sustituiremos en el archivo de configuración de Wordpress en la sección que corresponde.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/4d584665-1464-4c05-bf9d-696892de6084)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/f02aae56-bf91-46e3-8391-4d27a7287764)
+
+
+
+
+
 
 
 
