@@ -11,5 +11,4 @@ Repositorio de SREI
 | 1 TRIMESTRE  |  
 | ------------- | 
 | [PRACTICA-FINAL](Proyecto_1TRIM/Documetacion.md)  | 
-| [PRACTICA-FINAL2](SREI-ASIR2/PROYECCTO2
-/documento2.md)  | 
+| [PRACTICA-FINAL2](PROYECTO2/Documento2.md)  | 
