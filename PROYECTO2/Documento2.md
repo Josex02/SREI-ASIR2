@@ -42,6 +42,40 @@
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/8642918e-63ec-455e-bd28-1a869af3f314)
 
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/863a16c8-6980-41eb-870b-3c4f011c1abe)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/200e747a-3ef9-4fac-b443-0fe46401bccb)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/708e0341-fa25-4387-bc57-d30201a00c8e)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/bde91787-2ca5-45c8-b3e2-907e458c769b)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/60cf9551-9ea6-4675-ba24-2262c35ff0f3)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/09990990-b3af-4d3b-ae8c-b2964de949e8)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/993dc760-4eef-4b8f-ae5e-fce344590878)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/23eca1bb-34a1-4eae-9b9b-40452143e067)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/641b65c5-cecc-4695-8c8c-c773e2166dd0)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/c2572de2-8ed9-420b-99da-aabdd8d93927)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/89197002-7891-4c15-995a-8d56683554b2)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/5f740806-b426-42a0-821f-d34cd58302f3)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/18fa131c-35f9-4dea-be24-63f87efbc358)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/55667fa9-c07c-4821-b279-a83dc38bcbe3)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/d6e817fe-e958-4dc1-9ed3-118eab876d6b)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/417ee514-4292-43c7-a44e-81b8109f2bdb)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/b35fc8ee-b89b-47ea-8100-54dadbee008c)
+
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/5fc77f4b-7b1d-4c29-b6d6-1bef887f6684)
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/192e0cb7-f932-4b97-a45e-487951008267)
