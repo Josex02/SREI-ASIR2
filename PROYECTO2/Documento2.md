@@ -38,3 +38,36 @@
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/5ed70d4e-cd1d-42ab-ba7c-04ddcadce729)
 
+### Instala y configura wordpress
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/76f1e9d5-7084-4d8d-8f6d-bda770cab16d)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/e33f0649-38a9-42e2-86a8-6a85db5686f1)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/88d75329-878f-412a-8ecc-41ae04af74db)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/a5c7845d-323c-4195-b684-a839a61d06d5)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/2f1c0c78-b54d-4dd0-84d9-44a341e73559)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/92b5d74a-be4f-48eb-aaf9-c1eefb328155)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/bcfbc055-c528-4390-b799-359dcda35c69)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/78f2efb6-b8cc-4994-8255-91d88d5a349c)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/f20df0f3-8dd6-4cbb-9e53-aa81d38c8925)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/29249d23-c69c-40f7-9bc5-bfcf831d08f4)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/b9da5029-eafe-4e1d-86a2-60fb62ccfecc)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/c91f8dcc-2217-4da1-99c7-39a72cbe0955)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/c65afc80-8b37-45b9-8adc-d0ef35e1079b)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/af7611f0-4ff9-4d49-8e47-b32afc472aad)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/2474daa8-34eb-4636-9c41-f452aa711007)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/8d5c7734-bea6-4745-a21c-eaa62035d98e)
