@@ -75,3 +75,21 @@
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/b13a38e9-8f71-4337-8242-ed02f165e8c6)
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/a5caca2e-e4db-49b9-9bf4-5334c82ac226)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/d7ed63e0-b173-4522-bb94-c3dc9d4fd066)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/45c2f490-9f75-4a46-aa7d-f05b23ac2e23)
+
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/baef5b0c-d824-4d44-8b1f-958ccb846f8e)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/8a4bb22f-b254-4253-8b35-44bed704a0bb)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/5fc77f4b-7b1d-4c29-b6d6-1bef887f6684)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/192e0cb7-f932-4b97-a45e-487951008267)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/26927adc-3ae1-41ca-ac8d-80ebe37400eb)
+
+
+
