@@ -40,8 +40,6 @@
 
 ### Instala y configura wordpress
 
-![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/76f1e9d5-7084-4d8d-8f6d-bda770cab16d)
-
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/5fc77f4b-7b1d-4c29-b6d6-1bef887f6684)
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/192e0cb7-f932-4b97-a45e-487951008267)
