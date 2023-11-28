@@ -146,6 +146,8 @@
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/8ab194cb-3207-4a9a-a494-7074991ddf3c)
 
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/0e5892a8-5855-4977-a7e1-4f66134d6648)
+
 
 
 
