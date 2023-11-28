@@ -128,6 +128,22 @@
 
 ### Instala y configura awstat.
 
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/3438b180-17a8-4bd6-97bd-baa188d1e091)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/baa2b4a3-82e1-47c6-be15-8637a24868cf)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/f730cb8f-998e-4048-b82c-eccf12896265)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/ffa2cfe7-16df-41b9-bc7d-0613fa15e26c)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/f4420cfe-32b9-4c56-a515-632e2ff9c685)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/092a5ae3-52ee-4062-a68d-dd5628e518fb)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/bc63353b-e0fb-4394-8fa3-20612222f992)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/9b290a4d-8009-4922-822c-ab54a017073a)
+
 
 
 
