@@ -150,7 +150,33 @@
 
 ### Instala un segundo servidor de tu elección (nginx, lighttpd) bajo el dominio “servidor2.centro.intranet”. Debes configurarlo para que sirva en el puerto 8080 y haz los cambios necesarios para ejecutar php. Instala phpmyadmin.
 
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/b175d419-cb11-4865-8d97-f7858c607198)
 
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/35b113e2-6c0d-43e8-9138-486f2858b260)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/03265e18-7064-4e44-9946-f944c9cd6667)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/52d0127b-7eb9-4777-b92a-dca6d17c1d56)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/ca0d552e-9df0-43d1-a309-2e8a8a9be714)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/65cf9cf0-6b21-4faf-b697-e857fd1c2764)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/6a7f0516-4292-43f6-b8eb-dbdcb582e407)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/9683e25e-7258-4a8b-8f32-0c43c495b411)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/67776f0e-c000-4ca5-b2c6-f2d36fb29bae)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/0d3c1716-47b7-43ab-b947-9f0bc8047505)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/831b500b-d038-4d0d-b5f6-329a861106ff)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/26971613-cc25-4cfe-a06a-bab72fde49bb)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/d6823be5-f665-4534-912c-d82581430bc2)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/a3b84ab2-0115-4642-8f1b-93e45fba3ac1)
 
 
 
