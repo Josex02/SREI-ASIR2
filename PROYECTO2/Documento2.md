@@ -112,6 +112,22 @@
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/e69e90eb-1b70-41cf-993b-62724b9e7e30)
 
+### Adicionalmente protegeremos el acceso a la aplicación python mediante autenticación
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/f69be6d6-ef62-4c34-873e-bda87be48f88)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/b1a9a580-75d3-4ef1-b85b-e2f531ca1efc)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/170a43a4-3437-4d7e-83ac-8a68f5d2fb33)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/b86b65c7-53f9-44ff-842d-359133572200)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/2e105ff1-4e81-4f5b-a971-df1eda13d2fc)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/572fcd9e-0036-4642-a3d8-20a205c41415)
+
+### Instala y configura awstat.
+
 
 
 
