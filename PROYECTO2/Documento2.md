@@ -148,6 +148,8 @@
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/0e5892a8-5855-4977-a7e1-4f66134d6648)
 
+### Instala un segundo servidor de tu elección (nginx, lighttpd) bajo el dominio “servidor2.centro.intranet”. Debes configurarlo para que sirva en el puerto 8080 y haz los cambios necesarios para ejecutar php. Instala phpmyadmin.
+
 
 
 
