@@ -90,6 +90,7 @@
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/3446336a-0904-46ee-ab25-023cabf3c618)
 
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/3e2ad4dd-0031-4b17-9216-933c3d692460)
 
 
 
