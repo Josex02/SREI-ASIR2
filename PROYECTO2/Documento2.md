@@ -82,5 +82,17 @@
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/26927adc-3ae1-41ca-ac8d-80ebe37400eb)
 
+### Activar el módulo "wsgi" para permitir la ejecución de aplicaciones Phyton.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/32d2ce8c-663c-49fd-a6fb-671bd85cb2ed)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/98d0d3b8-ae84-4151-b720-4366b6485acb)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/3446336a-0904-46ee-ab25-023cabf3c618)
+
+
+
+
+
 
 
