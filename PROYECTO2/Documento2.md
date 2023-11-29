@@ -4,19 +4,27 @@
 
 Para comenzar a hacer la practica, lo primero que todo haremos un (apt update) y (apt upgrade) para ver si tenemos algo que actualizar y en caso de que tengamos algo lo actualizaremos.
 
-Una vez ya hayamos actualiado todo, procederemos a la instalacion de APACHE2 con el comando (# apt install apache2 #)
+Una vez ya hayamos actualiado todo, procederemos a la instalacion de APACHE2 con el comando (apt install apache2)
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/76f38483-8f14-4fa0-b75e-fe109a75d6ce)
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/bab82fc8-866d-400b-bec3-ec357bbb987c)
 
+Ahora, lo que haremos va a ser crear "centro.intranet" y "departamentos.centro.intranet" con el comando (mkdir)
+
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/0cd16248-4a85-4fb1-b35e-e0f79f40cd8d)
 
+El próximo paso va a ser movernos dentro de "centro.intranet" y vamos a crear un archivo llamado index.html con el comando (nano index.html)
+
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/1eeb2c6b-f31b-4d44-a117-5239b54639af)
+
+Luego, editaremos el archivo que hemos creado, tanto de centro.intranet como de departamentos.centro.intranet.
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/378383cc-61d0-4bc4-bc92-5e68ae15a771)
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/a2455f66-84f3-4282-9b7f-f01ff5e1857f)
+
+
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/2a08865d-4c2a-4938-977f-72ac6904d7b3)
 
