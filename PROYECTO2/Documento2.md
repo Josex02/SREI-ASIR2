@@ -2,6 +2,10 @@
 
 ### Instalación del servidor web apache. Usaremos dos dominios mediante el archivo hosts: centro.intranet y departamentros.centro.intranet. El primero servirá el contenido mediante wordpress y el segundo una aplicación en python.
 
+Para comenzar a hacer la practica, lo primero que todo haremos un (apt update) y (apt upgrade) para ver si tenemos algo que actualizar y en caso de que tengamos algo lo actualizaremos.
+
+Una vez ya hayamos actualiado todo, procederemos a la instalacion de APACHE2 con el comando (# apt install apache2 #)
+
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/76f38483-8f14-4fa0-b75e-fe109a75d6ce)
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/bab82fc8-866d-400b-bec3-ec357bbb987c)
