@@ -16,7 +16,7 @@ Repositorio de SREI
 | [Directivas-Directory](Directiva-directory/documento.md)  | 
 | [Expresiones-Regulares](expresiones-regulares/documento.md)  | 
 | [Reescritura](reescritura/documento.md)  | 
-| [VirtualHost](Proyecto_1TRIM/Documetacion.md)  | 
+| [VirtualHost](virtualhost/documento.md)  | 
 | [Authentication](Proyecto_1TRIM/Documetacion.md)  | 
 
 
