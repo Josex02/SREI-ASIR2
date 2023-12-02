@@ -49,14 +49,19 @@
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/5f3fa644-3e82-46bf-9a8a-59797fac148d)
 
-
-	
 ## Redirecciona el contenido de la carpeta “prueba” hacia “prueba2”
-	
+
 ## Es posible redireccionar tan solo una página en lugar de toda la carpeta. Pruébalo.
-	
+
 ## Usa la directiva userdir
-	
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/1bfb488d-290c-4c71-a591-47325ec5e21a)
+
 ## Usa la directiva alias para redireccionar a una carpeta dentro del directorio de usuario.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/bb55e5a3-0821-4b2e-8f2a-7d18d89bd691)
 	
 ## ¿Para qué sirve la directiva Options y dónde aparece. Comprueba si apache indexa los directorios. Si es así, ¿cómo lo desactivamos?
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/d203b728-a9a9-469b-a6fc-f2137e41f141)
+
