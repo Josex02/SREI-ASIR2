@@ -12,7 +12,7 @@ Repositorio de SREI
 | ------------- | 
 | [PRACTICA-FINAL](PROYECTO2/Documento2.md)  | 
 | [Configuracion_Apache](Configuracion-Apache/documento.md)  | 
-| [Directivas-Basicas](Proyecto_1TRIM/Documetacion.md)  | 
+| [Directivas-Basicas](Directivas-basicas/documento.md)  | 
 | [Directivas-Directory](Proyecto_1TRIM/Documetacion.md)  | 
 | [Expresiones-Regulares](Proyecto_1TRIM/Documetacion.md)  | 
 | [Reescritura](Proyecto_1TRIM/Documetacion.md)  | 
