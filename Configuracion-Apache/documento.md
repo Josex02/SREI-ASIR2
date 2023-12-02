@@ -32,6 +32,12 @@
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/de9d1404-6d03-48ed-9a6b-8dd4ea136d01)
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/19419e47-d90a-4ac4-bd0d-2d4da74bedda)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/60a07010-a981-4e8b-9324-21140facf6ce)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/5f3fa644-3e82-46bf-9a8a-59797fac148d)
+
+
 	
 ## Redirecciona el contenido de la carpeta “prueba” hacia “prueba2”
 	
