@@ -11,7 +11,7 @@ Repositorio de SREI
 | 1 TRIMESTRE  |  
 | ------------- | 
 | [PRACTICA-FINAL](PROYECTO2/Documento2.md)  | 
-| [Configuracion_Apache](Proyecto_1TRIM/Documetacion.md)  | 
+| [Configuracion_Apache](Configuracion-Apache/documento.md)  | 
 | [PRACTICA-FINAL](Proyecto_1TRIM/Documetacion.md)  | 
 | [PRACTICA-FINAL](Proyecto_1TRIM/Documetacion.md)  | 
 | [PRACTICA-FINAL](Proyecto_1TRIM/Documetacion.md)  | 
