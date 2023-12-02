@@ -19,16 +19,26 @@
 
 ## Haz que se visualice el pie de página de Apache en tu navegador
 
-
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/269fda06-19a1-4a8f-b601-afd7db671b25)
 	
 ## Crea un directorio “prueba” y otro directorio “prueba2”. Incluye un par de páginas en cada una de ellas.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/558f5d09-39c0-4f27-90f5-f78f3f0a3638)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/931f8d33-2d44-4ba5-8914-357b22867801)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/9f2d23f6-515f-4e1a-a227-7aeb68b0e926)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/de9d1404-6d03-48ed-9a6b-8dd4ea136d01)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/1bfb17f0-4fdd-44d3-a5d2-f6df7ab63bbd)
 	
 ## Redirecciona el contenido de la carpeta “prueba” hacia “prueba2”
 	
 ## Es posible redireccionar tan solo una página en lugar de toda la carpeta. Pruébalo.
 	
-Usa la directiva userdir
+## Usa la directiva userdir
 	
-Usa la directiva alias para redireccionar a una carpeta dentro del directorio de usuario.
+## Usa la directiva alias para redireccionar a una carpeta dentro del directorio de usuario.
 	
-¿Para qué sirve la directiva Options y dónde aparece. Comprueba si apache indexa los directorios. Si es así, ¿cómo lo desactivamos?
+## ¿Para qué sirve la directiva Options y dónde aparece. Comprueba si apache indexa los directorios. Si es así, ¿cómo lo desactivamos?
