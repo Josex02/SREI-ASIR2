@@ -10,5 +10,10 @@ Repositorio de SREI
 ## EL PROYECTO DE MI VIDA
 | 1 TRIMESTRE  |  
 | ------------- | 
+| [PRACTICA-FINAL](PROYECTO2/Documento2.md)  | 
+| [Configuracion_Apache](Proyecto_1TRIM/Documetacion.md)  | 
 | [PRACTICA-FINAL](Proyecto_1TRIM/Documetacion.md)  | 
-| [PRACTICA-FINAL2](PROYECTO2/Documento2.md)  | 
+| [PRACTICA-FINAL](Proyecto_1TRIM/Documetacion.md)  | 
+| [PRACTICA-FINAL](Proyecto_1TRIM/Documetacion.md)  | 
+| [PRACTICA-FINAL](Proyecto_1TRIM/Documetacion.md)  | 
+
