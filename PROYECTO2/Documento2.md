@@ -24,17 +24,27 @@ Luego, editaremos el archivo que hemos creado, tanto de centro.intranet como de 
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/a2455f66-84f3-4282-9b7f-f01ff5e1857f)
 
-
+Ahora, lo que haremos va a ser entrar en "centro.intranet.conf"
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/2a08865d-4c2a-4938-977f-72ac6904d7b3)
+
+Cuando entremos editaremos el archivo como tal y como te muestro, tanto en "centro.intranet.conf" como en "departamentos.centro.intranet".
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/13112318-8dd2-4068-9dac-98c68f02cb98)
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/f2d3f90f-477f-4983-b133-aaf0962d887d)
 
+El siguiente paso que tenemos que hacer es ejecutar el comando "a2ensite centro.intranet" y también "a2ensite departamentos.centro.intranet".
+
+Cuando hagamos el "a2ensite", tendremos que reiniciar el servidor para que se apliquen los cambios con el comando "service apache2 restart".
+
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/4bdfae14-808f-4ddc-b44c-8188ea2b293e)
 
+Ahora, nos iremos a nuestro archivo "hosts" y cambiaremos lo nombre asignados a las IPs por los que hemos creado.
+
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/24f1d89c-8d6f-4ac7-a5ce-493479c07d90)
+
+Por último, nos iremos a nuestro buscador y podremos la ruta que hemos creado "http://centro.intranet" y "http://departamento.centro.intranet".
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/f723219e-4ff1-40ca-957a-970ac3e3fcc7)
 
@@ -42,37 +52,69 @@ Luego, editaremos el archivo que hemos creado, tanto de centro.intranet como de 
 
 ### Activar los módulos necesarios para ejecutar php y acceder a mysql
 
+Para comenzar hacer este ejercicio, comenzaremos intalando mysql con el comando "apt install mysql-server".
+
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/e54bd379-8263-44de-98a6-6453f7996b18)
+
+Ahora para comprobar que todo se ha instalado correctamente, escribimos "mysql".
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/4ca59e4f-e749-4741-a883-5529bf305ca6)
 
+Luego, instalaremos libapache2 con el comando "apt install php libapache2-mod-php php-mysql".
+
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/8292ef31-3298-4b34-b08c-4201917d4b92)
+
+Para comprobar que se ha instalado correctamente, ejecutamos el comando "php -v" para ver la version en la que se ha instalado.
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/5ed70d4e-cd1d-42ab-ba7c-04ddcadce729)
 
 ### Instala y configura wordpress
 
+Para el comienzo de este ejercicio, lo que haremos va a ser instalar WordPress con el comando "wget http://wordpress.org/latest.tar.gz"
+
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/8642918e-63ec-455e-bd28-1a869af3f314)
+
+Ahora, vamos a descomprimir y extraer los archivos del archivo comprimido latest.tar.gz con el comando "tar -xzvf latest.tar.gz".
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/863a16c8-6980-41eb-870b-3c4f011c1abe)
 
+Ahora creamos los directorios del wordpress con el comando "mkdir"
+
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/200e747a-3ef9-4fac-b443-0fe46401bccb)
+
+Luego le damos permisos a la carpeta con el comando "sudo chmod -R 777 /var/www/html/wordpress" (o en la ruta en la que tengas la carpeta".
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/708e0341-fa25-4387-bc57-d30201a00c8e)
 
+Ahora vamos a iniciar sesión en el sistema de gestión de bases de datos MySQL como el usuario "root" con el comando "mysql -u root -p"
+
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/bde91787-2ca5-45c8-b3e2-907e458c769b)
+
+Crearemos la base de datos de "wordpress".
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/60cf9551-9ea6-4675-ba24-2262c35ff0f3)
 
+Después, crearemos nuestro usuario con nuestra contraseña, escribiendo el comando "CREATE USER 'Jose'@'%'IDENTIFIED BY 'Admin1234.'"
+
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/09990990-b3af-4d3b-ae8c-b2964de949e8)
+
+Ahora le daremos los privilegios a wordpress con el comando "GRANT ALL PRIVILEGES ON wordpress.** TO 'Jose'@'%';"
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/993dc760-4eef-4b8f-ae5e-fce344590878)
 
+Vamos a recargar los privilegios almacenados en la memoria y aplicar los cambios realizados con el comando "FLUS PRIILEGES"
+
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/23eca1bb-34a1-4eae-9b9b-40452143e067)
+
+Nos salimos de mysql con el comando "exit"
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/641b65c5-cecc-4695-8c8c-c773e2166dd0)
 
+El siguiente paso que haremos va a ser compiar el conteido de un archivo a otro con el comando "cp wp-config-sample.php wp-config.php"
+
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/c2572de2-8ed9-420b-99da-aabdd8d93927)
+
+Ahora, abriremos el archivo al que hemos copiado los datos del otro
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/89197002-7891-4c15-995a-8d56683554b2)
 
