@@ -118,17 +118,31 @@ Ahora, abriremos el archivo al que hemos copiado los datos del otro
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/89197002-7891-4c15-995a-8d56683554b2)
 
+Cuando lo abramos tendremos que editar el archivo con los datos que anteriormente hemos creado
+
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/5f740806-b426-42a0-821f-d34cd58302f3)
+
+Ahora, ejecutaremos un comando sin mostrar información adicional en la salida estándar y el comado es "curl -s https://api.wordpress.org/secret-key/1.1/salt/"
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/18fa131c-35f9-4dea-be24-63f87efbc358)
 
+Copiaremos los datos que hemos sacado antes con el comando que hemos puesto antes, y cuando lo copiemos volveremos a entrar en el archivo que hemos entrado anteriormente y pegaremos.
+
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/55667fa9-c07c-4821-b279-a83dc38bcbe3)
+
+Ahora, entraremos en el archivo de "wordpress.conf" con el comando "sudo nano /etc/apache2/wordpress.conf"
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/d6e817fe-e958-4dc1-9ed3-118eab876d6b)
 
+Cuando entremos editaremos el archivo como podemos ver en la imagen.
+
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/417ee514-4292-43c7-a44e-81b8109f2bdb)
 
+Vamos hacer un test sintáctico para ver que no hemos cometido ningún error sintáctico y reiniciaremos el servidor de apache. Lo haremos con el comando "apachectl configtest" para hacer un test sintáctico y "service apache2 restart" para reiniciar el servidor.
+
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/b35fc8ee-b89b-47ea-8100-54dadbee008c)
+
+Ahora nos iremos al buscador y pondremos la ruta que le hemos asignado "localhost/wordpress/wp-admin/"
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/5fc77f4b-7b1d-4c29-b6d6-1bef887f6684)
 
@@ -138,11 +152,22 @@ Ahora, abriremos el archivo al que hemos copiado los datos del otro
 
 ### Activar el módulo "wsgi" para permitir la ejecución de aplicaciones Phyton.
 
+Para habilitar mod_wsgi en Apache, basta con instalar el paquete libapache2-mod-wsgi
+
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/32d2ce8c-663c-49fd-a6fb-671bd85cb2ed)
+
+Debemos tener un directorio destinado a montar toda la aplicación:
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/98d0d3b8-ae84-4151-b720-4366b6485acb)
 
+Dentro de este directorio, vamos a dividir su arquitectura en dos partes:
+
+1. Destinada al almacenaje de nuestra aplicación Python pura (será un directorio privado, no servido).
+2. Destinada a servir la aplicación (directorio público servido) en el cuál solo almacenaremos archivos estáticos.
+
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/3446336a-0904-46ee-ab25-023cabf3c618)
+
+Aprovecharemos este paso, para crear una carpeta, destinada a almacenar los logs de errores y accesos a nuestra Web App:
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/3e2ad4dd-0031-4b17-9216-933c3d692460)
 
