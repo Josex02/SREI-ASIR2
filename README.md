@@ -4,7 +4,7 @@ Repositorio de SREI
 | Actividades  | Descripcion |
 | ------------- | ------------- |
 | [Ejercicio1](Ejercicio1/documento.md)  | Simple Web Server  |
-|  [lamadredefabio]()  | Content Cell  |
+|  [lamadredefabio]()  | HTTP Server |
 
 
 ## EL PROYECTO DE MI VIDA
