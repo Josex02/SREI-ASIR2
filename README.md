@@ -11,8 +11,8 @@ Repositorio de SREI
 ## TEMA 1 - Servidores Web
 | Actividades  | Descripcion |
 | ------------- | ------------- |
-| [Script1](script1/documento.md)  | Añadir y comprobar puerto  |
-|  [Ejercicio2](HTTP-Server/documento.md)  | Añadir y comprobar IP y dominio |
+|  [Script1](script1/documento.md)  | Añadir y comprobar puerto  |
+|  [Script2](script2/documento.md)  | Añadir y comprobar IP y dominio |
 |  [Ejercicio3](Dummy/documento.md)  | Crear página web con título, cabecera y mensaje |
 
 
