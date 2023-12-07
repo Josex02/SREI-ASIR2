@@ -13,7 +13,7 @@ Repositorio de SREI
 | ------------- | ------------- |
 |  [Script1](script1/documento.md)  | Añadir y comprobar puerto  |
 |  [Script2](script2/documento.md)  | Añadir y comprobar IP y dominio |
-|  [Ejercicio3](Dummy/documento.md)  | Crear página web con título, cabecera y mensaje |
+|  [Script3](script3/documento.md)  | Crear página web con título, cabecera y mensaje |
 
 
 ## PRACTICAS 1 TRIMESTRE
