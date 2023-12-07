@@ -7,7 +7,7 @@ Repositorio de SREI
 |  [Ejercicio2](HTTP-Server/documento.md)  | HTTP Server |
 |  [Ejercicio3](Dummy/documento.md)  | Dummy Web Server |
 
-## Proyecto final Trimestre
+## PROYECTO FINAL DE TRIMESTRE
 | 1 TRIMESTRE  |  
 | ------------- | 
 | [PRACTICA-FINAL](PROYECTO2/Documento2.md)  | 
