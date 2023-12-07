@@ -1,7 +1,7 @@
 # SREI-ASIR2
 Repositorio de SREI
 ## TEMA 0 - INTRODUCCION
-| la madre de antonio  | mi madre |
+| Actividades  | Descripcion |
 | ------------- | ------------- |
 | [elpadredeantonio]()  | Content Cell  |
 |  [lamadredefabio]()  | Content Cell  |
