@@ -1,7 +1,1 @@
-#!/bin/sh
-
-grep $1 "/etc/apache2/ports.conf" >> /dev/null
-if [ $? -ne 0 ];
-then echo "Listen $1" >> "/etc/apache2/ports.conf"
-else echo "Este puerto ya existe en ports.conf"
-fi
+## Crea un script que añada un puerto de escucha en el fichero de configuración de Apache. El puerto se recibirá como parámetro en la llamada y se comprobará que no esté ya presente en el fichero de configuración
