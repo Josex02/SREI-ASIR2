@@ -1,4 +1,4 @@
-# SREI-ASIR2 - JOSÉ EXPÓSITO ROBLES
+# SREI-ASIR2 - JOSÉ EXPÓSITO ROBLES / 1º TRIMESTRE
 Repositorio de SREI
 ## TEMA 0 - INTRODUCCION
 | Actividades  | Descripcion |
@@ -31,5 +31,9 @@ Repositorio de SREI
 | 1 TRIMESTRE  |  
 | ------------- | 
 | [PROYECTO-FINAL](PROYECTO2/Documento2.md)  | 
+
+
+# SREI-ASIR2 - JOSÉ EXPÓSITO ROBLES / 2º TRIMESTRE
+Repositorio de SREI
 
 
