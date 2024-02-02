@@ -36,4 +36,9 @@ Repositorio de SREI
 # SREI-ASIR2 - JOSÉ EXPÓSITO ROBLES / 2º TRIMESTRE
 Repositorio de SREI
 
+## PROYECTO FINAL DE TRIMESTRE
+| 2 TRIMESTRE  |  
+| ------------- | 
+| [PROYECTO-FINAL](PROYECTO2/Documento2.md)  | 
+
 
