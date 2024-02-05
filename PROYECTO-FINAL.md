@@ -93,6 +93,13 @@ Ahora, cierre el shell de MySQL con lo siguiente con el comando "**exit**".
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/0f00c58a-76dc-46ce-9fa8-3c4a94733de9)
 
+Ahora vamos a verificar si el usuario nuevo tiene los permisos adecuados al volver a iniciar sesión en la consola de MySQL, esta vez, con las credenciales de usuario personalizadas y lo haremos con el comando "**mysql -u example_user -p**".
+Cuando ejecutamos este comando nos pedirá la contraseña que le hayamos asignado a nuestro usuario.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/cf841175-f7a4-49ed-8083-64f9647598a8)
+
+
+
 
 
 
