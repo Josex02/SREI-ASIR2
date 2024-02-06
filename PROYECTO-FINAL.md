@@ -1,4 +1,4 @@
-# PROYECTO FINAL 2 TRIMESTRE: SERVIDOR ALOJAMIENTO  WEB 
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/753e129d-3855-45e6-8207-33c54a20f41c)# PROYECTO FINAL 2 TRIMESTRE: SERVIDOR ALOJAMIENTO  WEB 
 
 ## JOSÉ EXPÓSITO ROBLES
 
@@ -96,7 +96,28 @@ Ahora, cierre el shell de MySQL con lo siguiente con el comando "**exit**".
 Ahora vamos a verificar si el usuario nuevo tiene los permisos adecuados al volver a iniciar sesión en la consola de MySQL, esta vez, con las credenciales de usuario personalizadas y lo haremos con el comando "**mysql -u example_user -p**".
 Cuando ejecutamos este comando nos pedirá la contraseña que le hayamos asignado a nuestro usuario.
 
-![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/cf841175-f7a4-49ed-8083-64f9647598a8)
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/4274d9d2-aa0c-487f-bacf-0de1d6649cc2)
+
+Después de iniciar sesión en la consola de MySQL, confirme que tenga acceso a la base de datos, ejecutaremos el comando "**SHOW DATABASES;**".
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/c5d952f1-51ed-4af5-a587-79e05c104123)
+
+A continuación, crearemos una tabla de prueba denominada redes: Desde la consola de MySQL, ejecute la siguiente instrucción que mostraremos en la imagen.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/d9eb20fa-29e8-4302-94d9-b08be6fb26fa)
+
+Ahora, insertaremos alguna filas de contenido de prueba en nuestra tabla con el comando que te vamos a mostrar en la imagen de abajo.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/d1e691bc-52fd-44a9-9502-a20d0886312f)
+
+Para confirmar que los datos se guardaron correctamente en su tabla, ejecute lo siguiente.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/f9694814-757e-4d94-867e-1a2b3f6bf1fd)
+
+Después de terminar todos estos pasos, saldremos de mysql escribiendo "**exit**" en mysql.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/1712ec99-46ae-4903-ab5e-644895cfa85f)
+
 
 
 
