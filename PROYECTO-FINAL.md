@@ -118,6 +118,13 @@ Después de terminar todos estos pasos, saldremos de mysql escribiendo "**exit**
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/1712ec99-46ae-4903-ab5e-644895cfa85f)
 
+Ahora cuando acabemos todos los pasos anteriores, nos iremos a nuestro navegador web  y escribiremos la ruta "**http://localhost/phpmyadmin**" y entraremos dentro de phpmyadmin.
+Cuando estemos dentro, tendremos  que iniciar sesió con el usuario que hemos creado anterioirmente y cuando iniciaemos sesión ya lo tendríamos.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/ba609e91-88d4-4dfb-8564-8588007c0fb5)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/2814ad83-5225-483b-b5d8-5e3d44b4fbc8)
+
 
 
 
