@@ -8,7 +8,7 @@ Vamos a proceder a hacer la isntalación de todos los servicios que necesitamos 
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/27fbb0f3-580a-4151-bdbc-448a6ccd3a73)
 
-### alojamiento a páginas web tanto estáticas como dinámicas con “php”
+### Alojamiento a páginas web tanto estáticas como dinámicas con “php”
 
 Para alojar páginas web tanto estáticas como dinámicas con PHP, necesitarás configurar el servidor web. Usaremos el comando "**sudo apt install apache2 php libapache2-mod-php**".
 
@@ -124,6 +124,19 @@ Cuando estemos dentro, tendremos  que iniciar sesió con el usuario que hemos cr
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/ba609e91-88d4-4dfb-8564-8588007c0fb5)
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/2814ad83-5225-483b-b5d8-5e3d44b4fbc8)
+
+## Acceso mediante ftp para la administracion de archivos
+
+Lo primmero que haremos será intalar ftp con el comando "**sudo apt install vsftpd**".
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/c5b1af05-9409-4068-82a7-04a267feeafa)
+
+Cuando se complete la instalación, copie el archivo de configuración para que pueda comenzar con una configuración en blanco, mientras guarda el original como copia de seguridad con el comando "**sudo cp /etc/vsftpd.conf /etc/vsftpd.conf.original**".
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/4e9de8d2-fee8-434b-8f62-ce66b2f87a0e)
+
+
+
 
 
 
