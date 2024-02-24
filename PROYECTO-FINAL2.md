@@ -21,3 +21,14 @@ Luego de instalar MySQL, intalaaremos PHP con el comando "**sudo apt-get install
 Cuando lo estemos instalando, nos saldrá esta configuracion, la cual, tendremos que marcar la opcion de "Apache2" y le daremos a aceptar
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/0f6a5689-9104-49fe-b4af-65d25ace690f)
+
+Ahora, lo siguiente que vamos a isntalar es bind9 con el comando "**sudo apt-get install bind9**"
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/fcb12d77-8409-481a-a714-32766e24010c)
+
+Instalaremos Python con el comando sudo "**apt-get install python3**"
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/e5b79c27-eba6-4bdd-8da8-5310f5c255d4)
+
+
+
