@@ -40,6 +40,6 @@ Repositorio de SREI
 | 2 TRIMESTRE  |  
 | ------------- | 
 | [PROYECTO-FINAL](PROYECTO-FINAL.md)  | 
-| [PROYECTO-FINAL](PROYECTO-FINAL2.md)  | 
+| [PROYECTO-FINAL2](PROYECTO-FINAL2.md)  | 
 
 
