@@ -36,6 +36,18 @@ Repositorio de SREI
 # SREI-ASIR2 - JOSÉ EXPÓSITO ROBLES / 2º TRIMESTRE
 Repositorio de SREI
 
+## PRACTICAS 2 TRIMESTRE
+| 2 TRIMESTRE  |  
+| ------------- |  
+| [Configuracion_Apache](Configuracion-Apache/documento.md)  | 
+| [Directivas-Basicas](Directivas-basicas/documento.md)  | 
+| [Directivas-Directory](Directiva-directory/documento.md)  | 
+| [Expresiones-Regulares](expresiones-regulares/documento.md)  | 
+| [Reescritura](reescritura/documento.md)  | 
+| [VirtualHost](virtualhost/documento.md)  | 
+| [Authentication](autentificacion/documento.md)  | 
+
+
 ## PROYECTO FINAL DE TRIMESTRE
 | 2 TRIMESTRE  |  
 | ------------- | 
