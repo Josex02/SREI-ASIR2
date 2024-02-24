@@ -39,7 +39,7 @@ Repositorio de SREI
 ## PRACTICAS 2 TRIMESTRE
 | 2 TRIMESTRE  |  
 | ------------- |  
-| [Configuracion_Apache](Configuracion-Apache/documento.md)  | 
+| [Actividad 4](Actividad4.md)  | 
 | [Directivas-Basicas](Directivas-basicas/documento.md)  | 
 | [Directivas-Directory](Directiva-directory/documento.md)  | 
 | [Expresiones-Regulares](expresiones-regulares/documento.md)  | 
