@@ -37,6 +37,11 @@ Para permitir que el usuario anónimo pueda escribir lo haremos mediante "Limit 
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/c22b50dd-3e90-4048-a50f-280db2b968be)
 
+Por último, reiniciaremos el servicio para oder aplicar todos cambios que hemos realizado anteriormente.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/536bdba3-eb1e-46fc-9aff-ea6345664284)
+
+
 
 
 
