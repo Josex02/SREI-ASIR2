@@ -38,14 +38,11 @@ Repositorio de SREI
 
 ## PRACTICAS 2 TRIMESTRE
 | 2 TRIMESTRE  |  
-| ------------- |  
-| [Actividad 4](Actividad4.md)  | Configura proftpd para que los usuarios accedan al directorio /home/ftp (puedes usar DefaultChdir). ¿Cual es la diferencia entre DefaultRoot y DefaultChdir? |
-| [Directivas-Basicas](Directivas-basicas/documento.md)  | 
-| [Directivas-Directory](Directiva-directory/documento.md)  | 
-| [Expresiones-Regulares](expresiones-regulares/documento.md)  | 
-| [Reescritura](reescritura/documento.md)  | 
-| [VirtualHost](virtualhost/documento.md)  | 
-| [Authentication](autentificacion/documento.md)  | 
+| Actividades  | Descripcion |
+| ------------- | ------------- |
+|  [Actividad 4](Actividad4.md)  | Configura proftpd para que los usuarios accedan al directorio /home/ftp (puedes usar DefaultChdir). ¿Cual es la diferencia entre DefaultRoot y DefaultChdir?  |
+|  [Script2](script2/documento.md)  | Añadir y comprobar IP y dominio |
+|  [Script3](script3/documento.md)  | Crear página web con título, cabecera y mensaje |
 
 
 ## PROYECTO FINAL DE TRIMESTRE
