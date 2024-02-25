@@ -47,6 +47,34 @@ sudo nano /etc/proftpd/proftpd.conf
 
 
 
+### EJERCICIO 5: Crea un sitio virtual para “informatica.marisma.local”
+
+Para este ejercicio, vamos a crear el sistio virtual para "**informatica.marisma.local**" con el comando
+
+````
+sudo nano /etc/apache2/sites-available/informatica.marisma.local.conf
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/79a8b47e-8afa-4abb-a7d4-f27162a7b56b)
+
+Cuando estemos dentro editaremos el archivo tal y como te mostramos en la imagen.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/b262a065-f617-4ae9-80b6-97a864f7dff2)
+
+
+
+### EJERCICIO 6: Modifica el fichero de zona del DNS para que resuelva adecuadamente
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/89e1d191-b473-4f06-94b2-f5eea2d7a01b)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/c5dd5245-9c27-4257-bf6b-e13781b69f78)
+
+
+
+
+
+
+
 
 
 
