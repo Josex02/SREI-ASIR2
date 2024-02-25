@@ -69,6 +69,13 @@ Cuando estemos dentro editaremos el archivo tal y como te mostramos en la imagen
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/c5dd5245-9c27-4257-bf6b-e13781b69f78)
 
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/0945433e-382a-4433-8235-0292b6da89ce)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/8f138099-acac-40a3-86d0-d79a6031d47d)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/0cdfa843-4b26-48bc-87fd-aeef1b8dc6a5)
+
+
 
 
 
