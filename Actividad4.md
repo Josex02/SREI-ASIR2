@@ -10,7 +10,7 @@ Vamos a comprobar que el servicio de proftpd está funcionando y lo haremos con 
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/014f896b-ba2c-42e9-9d56-d234b7205880)
 
-
+Luego instalaremos el servicio bind9 con el comando "**sudo apt-get install bind9**".
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/836ffcae-717b-489d-a230-ed08684a7914)
 
