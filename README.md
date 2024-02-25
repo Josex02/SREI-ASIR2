@@ -39,7 +39,7 @@ Repositorio de SREI
 ## PRACTICAS 2 TRIMESTRE
 | 2 TRIMESTRE  |  
 | ------------- |  
-| [Actividad 4](Actividad4.md)  | 
+| [Actividad 4](Actividad4.md)  | Configura proftpd para que los usuarios accedan al directorio /home/ftp (puedes usar DefaultChdir). ¿Cual es la diferencia entre DefaultRoot y DefaultChdir? |
 | [Directivas-Basicas](Directivas-basicas/documento.md)  | 
 | [Directivas-Directory](Directiva-directory/documento.md)  | 
 | [Expresiones-Regulares](expresiones-regulares/documento.md)  | 
