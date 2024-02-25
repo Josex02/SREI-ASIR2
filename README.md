@@ -40,8 +40,8 @@ Repositorio de SREI
 | 2 TRIMESTRE  |  
 | Actividades  | Descripcion |
 | ------------- | ------------- |
-|  [Actividad 4](Actividad4.md)  | Configura proftpd para que los usuarios accedan al directorio /home/ftp (puedes usar DefaultChdir). ¿Cual es la diferencia entre DefaultRoot y DefaultChdir?  |
-|  [Script2](script2/documento.md)  | Añadir y comprobar IP y dominio |
+|  [Actividad 4](Actividad4.md)  | ProFTPd privado y anónimo  |
+|  [Actividad5](Actividad5.md)  |  ProFTPd VirtualHost  |
 |  [Script3](script3/documento.md)  | Crear página web con título, cabecera y mensaje |
 
 
