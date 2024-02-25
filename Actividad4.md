@@ -41,6 +41,28 @@ Por último, reiniciaremos el servicio para oder aplicar todos cambios que hemos
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/536bdba3-eb1e-46fc-9aff-ea6345664284)
 
+### COMPROBACION
+
+Para comenzar la comprobación del ejercicio vamos a instalar "**FileZilla**", lo haremos con el comando "**sudo apt-get install filezilla**".
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/13b0ab39-e5c9-4d90-a931-52c6f98fd33b)
+
+Ahora, vamos a crear un nuevo usuario con el comando "**sudo adduser usuarioftp**".
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/afcc30ea-0a3f-4db7-ad78-ef81f6cfbceb)
+
+Cuando ya hayamos creado el nuevo usuario nos iremos a FileZilla y una vez dentro vamos a conectarnos.
+Para conectarnos, abriremos el gestor de sitios y lo rellenaremos con los datos que hemos creado.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/5f163f9e-23d9-424b-82bc-b719647cea64)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/9538e018-e0f5-48c3-91f4-421a92cac1eb)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/d8171345-841f-480c-ae8d-68bc628eb803)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/4aedbecb-23f7-4525-8201-dcc1684b5ee9)
+
+
 
 
 
