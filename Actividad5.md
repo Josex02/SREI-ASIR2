@@ -7,5 +7,6 @@ Para este ejercicio, vamos a crear un nuevo directorio llamado informatica con e
 sudo mkdir /home/ftp/informatica
 ````
 
-![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/39d8e061-d999-4d70-9dc5-9328643b84da)
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/e369100f-ee41-4081-81d5-79861f1f5dbf)
+
 
