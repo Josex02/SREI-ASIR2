@@ -41,8 +41,8 @@ Repositorio de SREI
 | Actividades  | Descripcion |
 | ------------- | ------------- |
 |  [Actividad 4](Actividad4.md)  | ProFTPd privado y anónimo  |
-|  [Actividad5](Actividad5.md)  |  ProFTPd VirtualHost  |
-|  [Script3](script3/documento.md)  | Crear página web con título, cabecera y mensaje |
+|  [Actividad 5](Actividad5.md)  |  ProFTPd VirtualHost  |
+|  [Actividad 6](Actividad6.md)  | ProFTPd TLS |
 
 
 ## PROYECTO FINAL DE TRIMESTRE
