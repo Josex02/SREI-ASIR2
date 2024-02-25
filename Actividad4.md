@@ -6,6 +6,12 @@ Para comenzar a haer el ejercicio, tendremos que instalar los servicios ProFTPd 
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/8f47ed02-9c8d-4d65-89ec-0f9aed386344)
 
+Vamos a comprobar que el servicio de proftpd está funcionando y lo haremos con el comando "**sudo systemctl status proftpd**"
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/014f896b-ba2c-42e9-9d56-d234b7205880)
+
+
+
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/836ffcae-717b-489d-a230-ed08684a7914)
 
 El siguiente paso que haremos será entras al archivo "proftpd.comf" con el comando "**sudo nano /etc/proftpd/proftpd.conf**".
@@ -58,7 +64,11 @@ Para conectarnos, abriremos el gestor de sitios y lo rellenaremos con los datos 
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/9538e018-e0f5-48c3-91f4-421a92cac1eb)
 
+Cuando le demos a conectar tendremos que poner la contraseña que le hemos establecido anteriormente.
+
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/d8171345-841f-480c-ae8d-68bc628eb803)
+
+Por último, veremos que después de introducirle la contraseña ya nos hemos conectado correctamente.
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/4aedbecb-23f7-4525-8201-dcc1684b5ee9)
 
