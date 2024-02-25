@@ -4,7 +4,8 @@
 
 Para este ejercicio, vamos a crear un nuevo directorio llamado informatica con el comando:
 ````
-sudo mkdir /home/informatica
+sudo mkdir /home/ftp/informatica
 ````
 
-![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/0a6e5673-fe59-44bd-9743-84fc834b7347)
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/39d8e061-d999-4d70-9dc5-9328643b84da)
+
