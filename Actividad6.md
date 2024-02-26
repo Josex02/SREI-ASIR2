@@ -52,7 +52,33 @@ sudo nano /etc/proftpd/tls.conf
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/f5cbb264-48a3-422b-bcbf-fa6b2fcb4508)
 
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/90d464fb-3ef1-4a07-8b93-0150180f3e17)
 
+Una vez editemos toda la configuracion reiniciaremos el servicio "**proftpd**" para aplicar todos los cambios que hemos hecho, lo haremos con el comando.
+
+````
+sudo systemctl restart proftpd
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/df9839d6-df1d-4e67-948f-8e69c56ed120)
+
+Ahora cuando reiniciemos, nos iremos al archivo de configuracion de "**tls.conf**" y usaremos un comando para generar un certificado de seguridad.
+
+````
+sudo nano /etc/proftpd/tls.conf
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/2214b1bc-a21a-467b-9057-3506f9f2ddc2)
+
+Lo usaremos como comando de la misma forma que te muestro en la imagen
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/b1d450e8-471d-4a11-b4db-292afa80b938)
+
+Cuando hayamos hecho correctamente los pasos anteriores, nos dirigiremos a "**filezilla**" y nos conectaremos con la siguiente configuracion.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/bef2c169-1a8b-4993-8659-e74ccdda1f64)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/35f5231d-c22f-4b3e-82b0-e10aea3b05e3)
 
 
 
