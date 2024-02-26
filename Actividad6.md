@@ -80,6 +80,9 @@ Cuando hayamos hecho correctamente los pasos anteriores, nos dirigiremos a "**fi
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/35f5231d-c22f-4b3e-82b0-e10aea3b05e3)
 
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/654024a0-c8de-4f6e-b7d9-ec39326db294)
+
+
 
 
 
