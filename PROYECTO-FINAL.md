@@ -147,9 +147,37 @@ Lo configuraremos la direccion que vanmos a utilizar con el dominio "**marisma.l
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/79e9ab55-b56a-4270-968c-e38032f2d9de)
 
-Cuando 
+Cuando lo hayamos editado correctamente y ahora crearemos la zona directa y la zona inversa, entraremos con el comando.
 
+````
+sudo nano /etc/bind/named.conf.local
+````
 
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/7ca2cf7d-6fb8-46ac-97f4-072f53e697c6)
+
+Ahora, vamos a comprobar que la sintaxis funciona correctamente, lo haremos con el comando.
+
+````
+sudo named-checkconf
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/f120fee9-63ee-43a9-9c55-99b50d3237bb)
+
+Vamos a crear una carpeta para alamcenar nuestras zonas, la cual hemos llamado "**zones**" y crearemos un archivo copiando los archivos usando el comando.
+
+````
+sudo cp /etc/bind/db.127 /etc/bind/zones/db.192.168.195
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/348993c4-eade-4dd4-8752-76b7be674583)
+
+Una vez ejecutado el comando vemos que la carpeta tiene los archivos correspondientes con el comando 
+
+````
+sudo ls /etc/bind/zones/
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/56798d59-ca61-407b-9d6c-61935ee2a127)
 
 
 
