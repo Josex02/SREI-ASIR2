@@ -125,6 +125,41 @@ Cuando estemos dentro, tendremos  que iniciar sesió con el usuario que hemos cr
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/2814ad83-5225-483b-b5d8-5e3d44b4fbc8)
 
+
+
+## INSTALACION Y CONFIGURACION DE BIND9
+
+Comenzaremos instalando el servicio "**bind9**", lo haremos con el comando.
+
+````
+sudo apt install bind9
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/669f2c42-2e58-47a9-be22-6c7d94eeeba1)
+
+Ahora nos iremos al archivo de configuracion "**named.conf.options*" con el comando.
+
+````
+sudo nano /etc/bind/named.conf.options
+````
+
+Lo configuraremos la direccion que vanmos a utilizar con el dominio "**marisma.local**"
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/79e9ab55-b56a-4270-968c-e38032f2d9de)
+
+Cuando 
+
+
+
+
+
+
+
+
+
+
+
+
 ## Acceso mediante ftp para la administracion de archivos
 
 Para instalar el filezilla, usaremos el comando.
