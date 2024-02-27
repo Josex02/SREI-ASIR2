@@ -76,9 +76,9 @@ Lo usaremos como comando de la misma forma que te muestro en la imagen
 
 Cuando hayamos hecho correctamente los pasos anteriores, nos dirigiremos a "**filezilla**" y nos conectaremos con la siguiente configuracion.
 
-![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/bef2c169-1a8b-4993-8659-e74ccdda1f64)
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/2f008657-399c-4a56-ab0a-f6b74c9b8f36)
 
-![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/35f5231d-c22f-4b3e-82b0-e10aea3b05e3)
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/c918fb5a-a9d0-46ab-b433-4be8839144ac)
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/654024a0-c8de-4f6e-b7d9-ec39326db294)
 
