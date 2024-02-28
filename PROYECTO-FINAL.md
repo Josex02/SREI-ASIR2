@@ -179,12 +179,21 @@ sudo ls /etc/bind/zones/
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/56798d59-ca61-407b-9d6c-61935ee2a127)
 
+Nos iremos al archivo de configuracion de nuestra zona directa y lo pondremos como aparece ne la imagen
 
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/76691d96-af49-4dea-9d87-a004cf76703d)
 
+Haremos lo mismo pero en el archivo de configuracion de la zona inversa.
 
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/13f8faf5-02f4-4ea8-aaec-b04084c10833)
 
+Por último, una vez hayamos hecho todos los procesos, restablecemos el servicio "**bind9**", lo haremos con el comando.
 
+````
+sudo systemctl restart bind9
+````
 
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/b596aa52-d632-4518-a91b-f5165a839a81)
 
 
 
@@ -267,6 +276,12 @@ Cuando hayamos hecho correctamente los pasos anteriores, nos dirigiremos a "**fi
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/654024a0-c8de-4f6e-b7d9-ec39326db294)
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/0c434463-c0cc-47b4-87b4-59c955111c79)
+
+
+
+## POSTFIX, IMAP Y POP3
+
+
 
 
 
