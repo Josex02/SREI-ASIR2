@@ -359,6 +359,93 @@ sudo apt install python3
 # CREACION DE SCRIPT:
 
 ````
+#!/bin/bash
+
+echo "Escribeme el nombre de usuario"
+read usuario
+
+echo "Escribe la contraseña que quieras"
+read contrasena
+
+echo "Escribe la direccion ip"
+read ip
+
+
+
+conf="${usuario}.conf"
+available="/etc/apache2/sites-available/${conf}"
+enable="/etc/apache2/sites-enabled/${conf}"
+subdominio="${usuario}.marisma.local"
+documentroot="/var/www/html/$usuario"
+html="${conf}/index.html"
+zona_directa="/etc/bind/zones/db.marisma.local"
+zona_inversa="/etc/bind/zones/db.192.168.201"
+
+# Creacion del usuario y del directorio de usuario
+
+echo "Creacion del usuario y directorio para la pagina web"
+sudo useradd -m -d /home/$usuario -s /bin/bash $usuario
+
+echo "$usuario:$contrasena" | sudo chpasswd
+echo "Has creado el usuario del sistema ${usuario} y actualizado su contraseña."
+
+
+# Creacion del subdominio
+
+echo "Actualizacion del fichero de zona"
+echo "\$ORIGIN ${dominio}." >> $zona_directa
+echo "@ IN A ${ip}" >> $zona_directa
+echo "www IN A ${ip}" >> $zona_directa
+#Zona inversa
+echo "${ip} IN PTR ns.${subdominio}." >> $zona_inversa
+
+service apache2 reload > /dev/null
+service bind9 reload > /dev/null
+service proftpd reload > /dev/null
+
+
+# Agregar el host a el archivo /etc/hosts
+echo "${ip} ${subdominio}" >> /etc/hosts
+echo "127.0.0.1 ${subdominio}" >> /etc/hosts
+echo "El Host se ha añadido al archivo correctamente"
+
+
+# Creacion del Host Virtual
+echo "Creando fichero de config"
+sudo mkdir $documentroot
+touch "${documentroot}/index.html"
+echo "<html><body><p>Ignacio apruebame</p></body></html>" > "${documentroot}/index.html"
+sudo cp /etc/apache2/sites-available/000-default.conf /etc/apache2/sites-available/$conf
+echo "<VirtualHost *:80>
+	ServerAdmin admin@$subdominio
+	ServerName $subdominio
+	DocumentRoot $documentroot
+	ErrorLog ${APACHE_LOG_DIR}/error.log
+	CustomLog ${APACHE_LOG_DIR}/access.log combined
+</VirtualHost>" >> $available
+
+
+a2ensite $conf
+
+service apache2 reload > /dev/null
+service bind9 reload > /dev/null
+service proftpd reload > /dev/null
+
+
+echo "Reiniciando servicios"
+service apache2 reload > /dev/null
+service bind9 reload > /dev/null
+service proftpd reload > /dev/null
+
+
+# Configuracion de la base de dato
+mysql -u root -e "CREATE DATABASE $usuario;"
+mysql -u root -e "CREATE USER '$usuario'@'localhost' IDENTIFIED BY  '$contrasena';"
+mysql -u root -e "GRANT ALL PRIVILEGES ON $usuario.* TO '$usuario'@'localhost';"
+mysql -u root -e "FLUSH PRIVILEGES;"
+
+echo "Has creado la base de datos ${usuario} y el usuario SQL ${usuario}"
+````
 
 
 
