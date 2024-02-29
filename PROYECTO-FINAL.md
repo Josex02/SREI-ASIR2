@@ -449,6 +449,72 @@ echo "Has creado la base de datos ${usuario} y el usuario SQL ${usuario}"
 
 
 
+## COMPROBACIONES DEL SCRIPT.
+
+Comenzaremos ejecutando nuestro script y rellenando todo lo que nos piden:
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/a2deb3d7-15d5-4868-b001-f7c35f6f55e7)
+
+Ahora, vamos a comprobar que todas las funciones se ejecutan correctamente.
+
+Para empezar veremos el **alojamento web php**.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/3629cc61-5cff-4858-a495-f2ae81b53235)
+
+Ahora nos iremos a nuestro navegador y ejecutaremos lo siguiente:
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/c92134f0-86a3-4ec7-acad-b231bb8b27e4)
+
+Haremos lo mismo, pero en vez de **php.info**, pondremos **index.html**
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/dfb8e43e-51fd-4702-8a00-58e6187de830)
+
+Luego, vamos a comprobar que podemos acceder a la pagina de **phpmyadmin**, para acceder tendremos que volvernos a ir a nuestro navegador web y ejecutaremos:
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/c26b6332-c127-4108-bb4f-1b4ec7e454a4)
+
+Ahora iniciaremos sesion con el usuario y contraseña que hemos creado con nuestro script.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/3ea69fd6-cda1-41ff-88f6-6c409af6eace)
+
+Vamos a comprobar como se nos ha creado nuestro usuario en la base de datos en **mysql**.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/f0bb4a9b-83b5-40c7-a79f-ee71647a8c3b)
+
+Lo siguiente que vamos a comprobar será las **conexiones ftp por tls**, para comporbarlo iniciaremos "**FILEZILLA**" y podremos la siguiente configuracion que te muestro en la imagen.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/c3794b01-8e18-4be4-8051-bd308c9ba102)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/3f666f81-5659-45aa-8150-e19fcaa99a63)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/8f1b91a5-031f-4e9e-99e5-9c99bc6487db)
+
+Ahora vamos a comprobar los "**SUBDOMINIOS DNS**"
+
+Vamos a comprobar las "**zonas directas e inversas**", comenzaremos comprobandos la **zona directa ** ejecutaremos el comando:
+
+````
+dig usuarioprueba.marsima.local
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/9817991b-d1dc-4e29-9646-751802e8b8c7)
+
+Luego vamos a comprobar la **zona inversa**" de la misma manera que la zona directa ejecutando el comando:
+
+````
+dig 192.168.177.13
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/fc2dab1e-790c-46de-b9fc-bf0394f1ed7f)
+
+
+
+
+
+
+
+
+
 
 
 
