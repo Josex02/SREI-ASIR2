@@ -281,6 +281,78 @@ Cuando hayamos hecho correctamente los pasos anteriores, nos dirigiremos a "**fi
 
 ## POSTFIX, IMAP Y POP3
 
+Lo primero que haremos será isntalar "**postfix**" lo configuraremos, para isntalarlo, usaremos el comando:
+
+````
+sudo apt isntall postfix
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/a88c0ad6-9489-436e-90d2-ae835e4d9727)
+
+Cuando lo instalemos nos saltará la ventana de configuración y marcaremos la opcion de "**sitio de internet**".
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/f33c6bd5-3cb2-46fd-8cf7-e8a0b9630f15)
+
+Lo siguiente que haremos será escribir el nombre de la configuracion de correo y ya lo tendriamos todo configurado
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/2199a87b-217d-4f55-a407-b944bb930089)
+
+Una vez tengamos instalado el servicio comprobaremos que funciona correctamente, usaremos el comando.
+
+````
+sudo systemctl status postfix
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/c5da151d-3ca1-47a5-b016-15562138eb30)
+
+Luego, instalaremos los servicios de "**IMAP**" y "**POP3**" utilizando el comando:
+
+````
+sudo apt install dovecot-imapd dovecot-pop3d
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/bc7b604b-d8f7-44bb-9c66-7da4385c1169)
+
+Cuando lo hayamos instalado reiniciaremos **dovecot**:
+
+````
+sudo apt install restart dovecot
+````
+
+Luego, vamos a editar el archivo de configuracion **dovecot.conf** con el comando:
+
+````
+sudo nano /etc/dovecot/dovecot.conf
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/30d618a4-8951-479d-81e1-0b7ba3f74f23)
+
+Una vez dentro lo editaremos y añadiremos la siguiente linea que te muestro en la imagen.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/bd00d4e0-8f3e-48e2-a8fa-49fda8de4a7e)
+
+
+
+
+## HABILITAR ARCHIVOS DE PYTHON
+
+Para habilitar los archivos python para poder instalarlo, usaremos los comandos:
+
+````
+sudo apt install libapache2-mod-py3
+sudo a2enmod wsgi
+sudo systemctl restart apache2
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/fdd7c97f-2f1d-4b0b-8968-a6b56d27a8e2)
+
+
+
+
+
+
+
+
 
 
 
