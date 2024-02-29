@@ -334,7 +334,7 @@ Una vez dentro lo editaremos y añadiremos la siguiente linea que te muestro en 
 
 
 
-## HABILITAR ARCHIVOS DE PYTHON
+## HABILITAR ARCHIVOS PARA INSTALAR PYTHON
 
 Para habilitar los archivos python para poder instalarlo, usaremos los comandos:
 
@@ -345,6 +345,20 @@ sudo systemctl restart apache2
 ````
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/fdd7c97f-2f1d-4b0b-8968-a6b56d27a8e2)
+
+Después de habilitar los archivos necesarios para la instalacion de python, vamos a instalarlo con el comando:
+
+````
+sudo apt install python3
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/e4861a49-de62-4026-9656-0a6388fb33ce)
+
+
+
+# CREACION DE SCRIPT:
+
+````
 
 
 
