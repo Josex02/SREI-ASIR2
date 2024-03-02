@@ -34,4 +34,11 @@ sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubun
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/933f14ec-1023-46d4-a3b5-b202fcd2fa15)
 
+Para comprobar que estamos a punto de realizar la instalacion desde el repositorio de Docker ejecutaremos el comando:
+
+````
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/4820c626-9314-42b0-9d16-a57e00f68d68)
+
+
+
 
