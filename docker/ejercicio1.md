@@ -37,8 +37,24 @@ sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubun
 Para comprobar que estamos a punto de realizar la instalacion desde el repositorio de Docker ejecutaremos el comando:
 
 ````
-![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/4820c626-9314-42b0-9d16-a57e00f68d68)
+apt-cache policy docker-ce
+````
 
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/e2be0229-3605-44e3-be7a-cd8215987f7f)
 
+Una vez tengamos todos estos pasos realizados correctamente, vamos a proceder a la instalacion de **Docker**:
 
+````
+sudo apt install docker-ce
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/e86698d9-b411-461a-b5e0-827c481d05c9)
+
+Cuando ya hayamos instalado **Docker** el dominio se nos iniciará y el proceso se habilitará para ejecutarse en el inicio, para comprobarlo ejecutaremos el comando:
+
+````
+sudo systemctl status docker
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/8f8640cd-1f7b-4a26-8cae-25f1f6561c03)
 
