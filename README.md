@@ -44,8 +44,8 @@ Repositorio de SREI
 |  [Actividad 5](Actividad5.md)  |  ProFTPd VirtualHost  |
 |  [Actividad 6](Actividad6.md)  | ProFTPd TLS |
 
-| Actividades  | Descripcion |
-| ------------- | ------------- |
+| Actividades  |
+| ------------- | 
 |  [Docker1](docker/ejercicio1.md)  | 
 |  [Docker2](docker/ejercicio2.md)  |  
 |  [Docker3](docker/ejercicio3.md)  | 
