@@ -34,10 +34,9 @@ Repositorio de SREI
 
 
 # SREI-ASIR2 - JOSÉ EXPÓSITO ROBLES / 2º TRIMESTRE
-Repositorio de SREI
 
 ## PRACTICAS 2 TRIMESTRE
-| 2 TRIMESTRE  |  
+
 | Actividades  | Descripcion |
 | ------------- | ------------- |
 |  [Actividad 4](Actividad4.md)  | ProFTPd privado y anónimo  |
@@ -45,7 +44,6 @@ Repositorio de SREI
 |  [Actividad 6](Actividad6.md)  | ProFTPd TLS |
 
 ## EJERCICIOS DE DOCKER
-| 2 TRIMESTRE  |
 | Actividades  |
 | ------------- | 
 |  [Docker1](docker/ejercicio1.md)  | 
