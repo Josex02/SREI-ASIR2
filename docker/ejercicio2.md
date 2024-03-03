@@ -37,7 +37,7 @@ En este momento no aparecen ninguno porque aun no hemos creado ninguno, en el mo
 Lo primero que tendremos que hacer antes de editar el archivo "**Dockerfile**", tendremos que obtener el codigo fuente de la aplicación en nuestra maquina, lo haremos con el comando:
 
 ````
-git clone https://github.com/docker/getting-started-app.git
+git clone https://github.com/docker/getting-started.git
 ````
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/b12f8cd9-bece-435a-b411-45b8dcdd074d)
