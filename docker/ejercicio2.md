@@ -40,7 +40,7 @@ Lo primero que tendremos que hacer antes de editar el archivo "**Dockerfile**", 
 git clone https://github.com/docker/getting-started.git
 ````
 
-![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/b12f8cd9-bece-435a-b411-45b8dcdd074d)
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/cffb92be-bc3a-44e2-b415-d1f9e8548973)
 
 Luego tendremos que acceder dentro de la ruta que hemos creado, ejecutando el comando,
 
@@ -49,6 +49,7 @@ cd /home/jose/getting-started
 ````
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/927302b8-d770-40fa-926a-9e0d7c4b1a9d)
+
 
 
 
