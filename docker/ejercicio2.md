@@ -130,6 +130,11 @@ Tambien lo ejecutaremos con el nombre de usuario y el nombre de la imagen corres
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/d1163a7a-454e-4472-aa5c-cb968a67c9e6)
 
+Para comprobar que hemos publicado la imagen correctamente, nos iremos **Docker hub** y nos iremos a la zona de repositorios y veremos que la imagen se ha publicado correctamente.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/e8911b27-ea3d-4432-b723-59c2bf229484)
+
+
 
 
 
