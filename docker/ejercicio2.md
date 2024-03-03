@@ -77,6 +77,8 @@ EXPOSE 3000
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/90c0430d-7c5f-44d2-8dee-aded7d59c0f3)
 
+### CONSTRUYE EL CONTENEDOR EL CONTENDOR
+
 El siguiente paso que haremos será crear el contenedor, el cual, lo ejecutaremos con el comando:
 
 ````
@@ -85,7 +87,28 @@ docker build -t getting-started .
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/ff1f32f0-619b-494f-a3ff-41bc2db3804d)
 
+Ahora, una vez hayamos creado el contenedor, lo iniciaremos con el comando:
 
+````
+docker run -dp 3000:3000 getting-started
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/50c81bf2-755c-4c88-a0f8-ffdb7bf0fd51)
+
+
+### EJECUTA EL CONTENEDOR
+
+Para ejecutar el contenedor, nos iremos al navegador web y escribiremos en el navegador:
+
+````
+http://localhost:3000
+````
+
+### CREA UNA CUENTA EN HUB.DOCKER.COM
+
+Aquí nos registraremos y nos crearemos una cuenta con nuestros datos. Yo ya tengo una cuenta creada en **Docker hub**.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/56b504a0-1e4f-4e96-b368-7a82eb90dda6)
 
 
 
