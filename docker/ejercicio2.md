@@ -48,7 +48,54 @@ Luego tendremos que acceder dentro de la ruta que hemos creado, ejecutando el co
 cd /home/jose/getting-started
 ````
 
-![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/927302b8-d770-40fa-926a-9e0d7c4b1a9d)
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/3923c4bb-063e-4eff-ab88-b1103987bd51)
+
+Cuando estemos en la ruta veremos lo que hay dentro de la ruta en la que estamos con el comando "**ls**".
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/b7ce2aa6-3d5a-4355-80bb-7691f6367baa)
+
+Una vez que veamos que tenemos el archivo **Dockerfile** entraremos dentro del archivo con el comando:
+
+````
+sudo nano Dockerfile
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/4d963501-dba3-4ea7-ae4e-b8ec8513c1f5)
+
+Cuando entremos dentro del archivo, editaremos el contendio añadiendole las siguientes lineas:
+
+````
+# syntax=docker/dockerfile:1
+
+FROM node:18-alpine
+WORKDIR /app
+COPY . .
+RUN yarn install --production
+CMD ["node", "src/index.js"]
+EXPOSE 3000
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/90c0430d-7c5f-44d2-8dee-aded7d59c0f3)
+
+El siguiente paso que haremos será crear el contenedor, el cual, lo ejecutaremos con el comando:
+
+````
+docker build -t getting-started .
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/ff1f32f0-619b-494f-a3ff-41bc2db3804d)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
