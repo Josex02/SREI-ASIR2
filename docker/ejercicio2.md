@@ -110,6 +110,26 @@ Aquí nos registraremos y nos crearemos una cuenta con nuestros datos. Yo ya ten
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/56b504a0-1e4f-4e96-b368-7a82eb90dda6)
 
+### PUBLICA LA IMAGEN EN DOCKER HUB
+
+Para publicar la imagen tendremos que ejecutar los siguientes comandos, lo primero que haremos será cambiar el **tag***, lo haremos con el comando:
+
+````
+docker tag getting-started josex02/imagendocker
+````
+
+Cada uno lo editará con su nombre de usuario y el nombre que quiera para la imagen.
+
+Cuando ya hayamos cambiado el tag, procederemos a la publicacion de la imagen, lo haremos ejecutando el comando:
+
+````
+docker push josex02/imagendocker
+````
+
+Tambien lo ejecutaremos con el nombre de usuario y el nombre de la imagen correspondiente de cada uno.
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/d1163a7a-454e-4472-aa5c-cb968a67c9e6)
+
 
 
 
