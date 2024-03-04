@@ -175,6 +175,8 @@ volumes:
     mariadb_data:
 ````
 
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/9b6b47df-0d13-4de9-bf93-0d24accd53f3)
+
 Ahora, cuando hayamos añadido las lineas en el archivo, ejecutaremos el siguiente comando para que añada los contenedores 
 
 ````
