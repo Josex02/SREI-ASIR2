@@ -60,7 +60,69 @@ http://localhost/public_html
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/1222174d-07cb-451b-be4b-2535ea4db4bc)
 
-### DESDE UNA IMAGEN CON APACHE2
+### CONSTRUCCION DE IMAGENES CON UNA APLICACION PHP
+
+Lo primero que tenemos que hacer, será crear un directorio (lo he llamado **docker6:2**) usando el comando
+
+````
+mkdir docker6:2
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/077c9683-8038-4c82-822f-fc88ed2c0fbb)
+
+
+Cuando ya creemos el directorio, vamos a crear dos archivo, uno **app** donde crearemos nuestro archivo html y otro archivo llamado **dockerfile** donde crearemos la imagen.
+
+Lo primero que haremos será crear el archivo **app** y lo editaremos con las siguientes lineas.
+
+````
+sudo nano app
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/0c2f59e3-2ca9-4ecc-9903-f66d612f70f4)
+
+Luego, crearemos el archivo **dockerfile** y le añadiremos las siguientes lineas
+
+````
+sudo nano dockerfile
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/3b8c2adc-ebff-4114-abe5-6ae8ffefbf2a)
+
+Una vez hayamos creado los archivos correctamente, lo siguiente que haremos, será crear la imagen ejecutando el comando
+
+````
+docker build -t josex02/prueba6.2:v1 .
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/70ff45d3-b37f-45fb-a3a2-ca6554ac40df)
+
+Cuando ya tengamos creada la imagen, comprobaremos si la hemos creado correctamente con el comando
+
+````
+docker images
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/b031b120-2c79-4fd8-802c-3dd93efb1ed2)
+
+Por ultimo una vez hecho todos los pasos anteriores, vamos a crear el contenedor con el comando
+
+````
+$ docker run -d -p 80:80 --name docker6.2 josex02/prueba6.2:v1
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/a6311907-7c84-4696-a384-c5aaa4d3d8ea)
+
+Ahora vamos a comprobar que hemos hecho todos los pasos correctamente. Lo haremos en nuestro navegador y escribiremos lo siguiente
+
+````
+http://localhost/app
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/860f6949-3763-4107-9239-bf093e7e03d3)
+
+
+
 
 
 
