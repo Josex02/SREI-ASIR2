@@ -183,7 +183,7 @@ Ahora, cuando hayamos añadido las lineas en el archivo, ejecutaremos el siguien
 docker compose up -d
 ````
 
-![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/36dfd28c-f8b9-4e02-b37e-176271abcc57)
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/0b38d6cf-9070-4666-b7cc-948688b5417b)
 
 Miraremos el listado de los contenedores para asegurarnos que se nos ha añadido correctamente
 
@@ -191,7 +191,7 @@ Miraremos el listado de los contenedores para asegurarnos que se nos ha añadido
 docker compose ps
 ````
 
-![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/f757b332-3004-4f28-9530-54c7cb4e5fb6)
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/4f09dd8e-d080-4048-8b73-efaba96a4a2a)
 
 Lo siguiente que vamos a hacer será parar los contenedores, y lo haremos ejecutando el siguiente comando
 
@@ -199,7 +199,7 @@ Lo siguiente que vamos a hacer será parar los contenedores, y lo haremos ejecut
 docker compose stop
 ````
 
-![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/28e1db33-2f51-4dd5-a066-43455e7e16f5)
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/c7244ed0-9494-4903-98f2-1f67a7c221ad)
 
 Por ultimo, eliminaremos los contendores con el comando
 
@@ -207,5 +207,5 @@ Por ultimo, eliminaremos los contendores con el comando
 docker compose down
 ````
 
-![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/6f13f2e8-433b-484e-88b3-5a1e668655d1)
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/95e3a27a-3e94-4669-be7f-8fb2f956c723)
 
