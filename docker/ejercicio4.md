@@ -72,8 +72,58 @@ http://localhost
 
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/829c549e-b95e-478c-a4da-0b82aa353f00)
 
+### DESPLIEGUE DE WORDPRESS + MARIADB
 
+Lo primero que haremos será crear una red llamada **temperaturas**. Lo haremos con el comando
 
+````
+docker network create red_wp
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/01933636-3d15-4cdd-abea-abd21a1057cb)
+
+Cuando creemos la red, ejecutaremos los contenedores con los comandos
+
+````
+docker run -d --name servidor_mysql \
+                --network red_wp \
+                -v /opt/mysql_wp:/var/lib/mysql \
+                -e MYSQL_DATABASE=bd_wp \
+                -e MYSQL_USER=user_wp \
+                -e MYSQL_PASSWORD=asdasd \
+                -e MYSQL_ROOT_PASSWORD=asdasd \
+                mariadb
+                
+docker run -d --name servidor_wp \
+                --network red_wp \
+                -v /opt/wordpress:/var/www/html/wp-content \
+                -e WORDPRESS_DB_HOST=servidor_mysql \
+                -e WORDPRESS_DB_USER=user_wp \
+                -e WORDPRESS_DB_PASSWORD=asdasd \
+                -e WORDPRESS_DB_NAME=bd_wp \
+                -p 80:80 \
+                wordpress
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/48ac951b-fe0a-4222-8c77-8065c1b51940)
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/5699e3b5-762f-4288-bea4-79a788fc5248)
+
+Para comprobar que hemos ejecutado los contenedores correctamente, usaremos el comado 
+
+````
+docker ps -a
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/2032afbd-9a97-4c41-bbe7-a7d0f5df2cc9)
+
+Una vez hayamos hecho todos los pasos, nos iremos a nuestro navegador web y escribiremos lo siguiente
+
+````
+http://localhost
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/de02c56b-ed6b-44de-bff9-3f32905dccfb)
 
 
 
