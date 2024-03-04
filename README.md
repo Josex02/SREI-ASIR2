@@ -51,7 +51,7 @@ Repositorio de SREI
 |  [Docker3](docker/ejercicio3.md)  | 
 |  [Docker4](docker/ejercicio4.md)  |
 |  [Docker5](docker/ejercicio5.md)  |
-
+|  [Docker6](docker/ejercicio6.md)  |
 
 
 ## PROYECTO FINAL DE TRIMESTRE
