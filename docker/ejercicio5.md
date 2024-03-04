@@ -99,6 +99,8 @@ services:
     restart: always
 ````
 
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/e71810ac-3203-4546-81bf-bad86ce661c4)
+
 Ahora, cuando hayamos añadido las lineas en el archivo, ejecutaremos el siguiente comando para que añada los contenedores 
 
 ````
