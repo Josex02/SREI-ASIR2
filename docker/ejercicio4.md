@@ -123,7 +123,7 @@ Una vez hayamos hecho todos los pasos, nos iremos a nuestro navegador web y escr
 http://localhost
 ````
 
-![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/de02c56b-ed6b-44de-bff9-3f32905dccfb)
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/0774933e-2917-4593-a78e-c56bdaffc303)
 
 
 
