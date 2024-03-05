@@ -122,8 +122,23 @@ http://localhost/app
 ![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/2c3434c4-aacb-4984-b3b9-6e5dc671427a)
 
 
+### CONSTRUCCION DE IMAGENES CON UNA APLICACION PYTHON
 
+Lo primero que tenemos que hacer, será crear un directorio (lo he llamado **docker6:2**) usando el comando
 
+````
+mkdir prueba6.3
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/fce955df-7949-4150-9d31-6cd1ddb9edd9)
+
+Cuando ya creemos el directorio, vamos a crear dos archivo, uno **public_html** donde crearemos nuestro archivo html y otro archivo llamado **dockerfile** donde crearemos la imagen.
+
+Lo primero que haremos será crear el archivo **public_html** y lo editaremos con las siguientes lineas.
+
+````
+sudo nano app
+````
 
 
 
