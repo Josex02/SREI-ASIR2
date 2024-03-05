@@ -79,7 +79,7 @@ Lo primero que haremos será crear el archivo **app** y lo editaremos con las si
 sudo nano app
 ````
 
-![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/0c2f59e3-2ca9-4ecc-9903-f66d612f70f4)
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/a8618b9f-7591-4cc4-9f6b-d064f76b03ce)
 
 Luego, crearemos el archivo **dockerfile** y le añadiremos las siguientes lineas
 
@@ -119,7 +119,7 @@ Ahora vamos a comprobar que hemos hecho todos los pasos correctamente. Lo haremo
 http://localhost/app
 ````
 
-![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/860f6949-3763-4107-9239-bf093e7e03d3)
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/2c3434c4-aacb-4984-b3b9-6e5dc671427a)
 
 
 
