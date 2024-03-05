@@ -137,10 +137,48 @@ Cuando ya creemos el directorio, vamos a crear dos archivo, uno **public_html** 
 Lo primero que haremos será crear el archivo **public_html** y lo editaremos con las siguientes lineas.
 
 ````
-sudo nano app
+sudo nano app.py
 ````
 
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/f7028346-fc8b-4c0e-8981-73aa29194854)
 
+Luego, crearemos el archivo **dockerfile** y le añadiremos las siguientes lineas
+
+````
+sudo nano dockerfile
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/623a9acf-3265-4ddd-9d9e-50d1eb715af7)
+
+Una vez hayamos creado los archivos correctamente, lo siguiente que haremos, será crear la imagen ejecutando el comando
+
+````
+docker build -t josex02/prueba6.3:v1 .
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/338eae28-f341-41d0-8046-786af9836f4e)
+
+Cuando ya tengamos creada la imagen, comprobaremos si la hemos creado correctamente con el comando
+
+````
+docker images
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/47defb93-61cd-405d-a6ed-21759c75539e)
+
+Por ultimo una vez hecho todos los pasos anteriores, vamos a crear el contenedor con el comando
+
+````
+$ docker run -d -p 80:5000 --name practica3 josex02/prueba6.3:v1
+````
+
+![image](https://github.com/Josex02/SREI-ASIR2/assets/91255971/14f2a10a-5383-4420-9ea5-f0a43ac59a3c)
+
+Ahora vamos a comprobar que hemos hecho todos los pasos correctamente. Lo haremos en nuestro navegador y escribiremos lo siguiente
+
+````
+http://localhost/app.py
+````
 
 
 
